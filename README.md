@@ -156,6 +156,5 @@ services:
 - `V1.1.0__add_refresh_token_table.sql` → Neues Feature
 - `V1.1.1__fix_token_expiry.sql` → Bugfix
 
----
-## **🔥 Nächster Schritt:** Projekt-Setup & Security-Konfiguration starten! 🚀
+
 
